@@ -1,0 +1,12 @@
+{
+  "systems": [
+    {
+      "name": "system-a",
+      "owner": "example-dev",
+      "description": "Example system description",
+      "tech_stack": ["python", "postgresql"],
+      "repository": "org/system-a"
+    }
+  ]
+}
+

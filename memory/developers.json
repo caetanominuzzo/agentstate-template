@@ -1,0 +1,12 @@
+{
+  "developers": [
+    {
+      "github_username": "example-dev",
+      "name": "Example Developer",
+      "systems": ["system-a", "system-b"],
+      "expertise": ["backend", "api"],
+      "notes": "Primary maintainer of system-a"
+    }
+  ]
+}
+

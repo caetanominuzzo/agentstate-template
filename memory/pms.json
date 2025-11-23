@@ -1,0 +1,11 @@
+{
+  "pms": [
+    {
+      "github_username": "example-pm",
+      "name": "Example PM",
+      "projects": ["project-a", "project-b"],
+      "context": "Manages infrastructure and platform projects"
+    }
+  ]
+}
+
