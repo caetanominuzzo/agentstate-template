@@ -22,5 +22,5 @@ This is a template repository for creating your organization's Agent State repos
 
 ## Learn More
 
-Visit [agentstate.org](https://agentstate.org) to learn more about the Agent State standard.
+Visit [agentstate.tech](https://agentstate.tech) to learn more about the Agent State standard.
 
